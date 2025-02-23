@@ -41,3 +41,7 @@ For detailed information about each API endpoint, request parameters, responses,
 #### 2.4 Get All Blogs (Public)
 
 **GET** `/api/blogs`
+
+#### 2.5 Get My Blogs (User)
+
+**GET** `/api/blogs/me`
